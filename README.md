@@ -11,4 +11,6 @@ quais games e canais acompanham...
 
 <br>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+
+![FireShot Capture 010 - NLW eSports - Explorer - eduardosmatos github io](https://user-images.githubusercontent.com/27296909/191140141-5c825b62-308f-4986-b573-a3e875954518.png)
