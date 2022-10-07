@@ -1,4 +1,4 @@
-<h1 align="center"> NLW eSports - Trilha Explorer ⚛️</h1>
+<h1 align="center"> NLW eSports - Trilha Explorer 🚀</h1>
 
 <p align="center">Semana Next Level Week proposto pela Rocketseat. Um desafio de 7 dias, aonde coloco em prática os conhecimentos de HTML e CSS, o desafio proposto é desenvolver o GameHub, um site centralizador de links, no estilo Linktree, feito especialmente para gamers utilizarem na Twitch e outras redes sociais com a proposta de compartilhar quais games e canais acompanham...</p>
 
